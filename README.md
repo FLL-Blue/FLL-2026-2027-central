@@ -4,5 +4,5 @@ This is a repository for the FLL Prewired 2026-2027. This file states a lot of s
 1. The raw code is contained here.
 2. The projects are backed up here along with Google Drive.
 3. Yes, GNU GPL V3.
-Created by BooyahBomb, a web identity.
+Created by BooyahBomb, an internet persona.
 Also contains Blender files and design.
